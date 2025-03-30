@@ -45,8 +45,6 @@ Configuración inicial 🛠️
 Clonar repositorio:
 
 bash
-Copy
-git clone https://github.com/tu-usuario/seguidor-solar.git
 Instalar dependencias:
 
 bash
